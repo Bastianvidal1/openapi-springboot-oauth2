@@ -1,0 +1,8 @@
+security:
+  oauth2:
+    client:
+      client-id: user
+      client-secret: secret
+      scope:
+        - read
+        - write
